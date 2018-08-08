@@ -1671,6 +1671,8 @@ pre .javascript .function {
 }
 .sidebar a {
   color: #999;
+  margin-left: 20px;
+  margin-top: 15px;
   border-bottom-color: #555;
 }
 .sidebar a:hover {
@@ -1822,7 +1824,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ccde2d;
+  background: #bf2a52;
 }
 .links-of-blogroll {
   font-size: 13px;
