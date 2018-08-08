@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JieEn&#39;s Corner</title>
+  
+  <subtitle>CODING...</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-08-08T05:23:42.185Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>JieEn</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Example</title>
+    <link href="http://yoursite.com/2018/08/08/First%20Blog/"/>
+    <id>http://yoursite.com/2018/08/08/First Blog/</id>
+    <published>2018-08-08T04:44:31.412Z</published>
+    <updated>2018-08-08T05:23:42.185Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h3><blockquote><ul><li>this is my first blog, and I want to test my personal blog website using this.</li><li>I will uplod a picture here.<img src="https://img-blog.csdn.net/2018080812434082?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyOTEyOTY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="pic for testing"></li></ul></blockquote><p><img src="https://img-blog.csdn.net/20180808132050340?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyOTEyOTY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="source code"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;My-First-Blog&quot;&gt;&lt;a href=&quot;#My-First-Blog&quot; class=&quot;headerlink&quot; title=&quot;My First Blog&quot;&gt;&lt;/a&gt;My First Blog&lt;/h3&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;this is
+      
+    
+    </summary>
+    
+    
+      <category term="example" scheme="http://yoursite.com/tags/example/"/>
+    
+  </entry>
+  
+</feed>
