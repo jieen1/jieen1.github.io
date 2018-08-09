@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-08T08:54:21.421Z</updated>
+  <updated>2018-08-09T10:48:04.776Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/08/08/First%20Blog/"/>
     <id>http://yoursite.com/2018/08/08/First Blog/</id>
     <published>2018-08-08T04:44:31.412Z</published>
-    <updated>2018-08-08T08:54:21.421Z</updated>
+    <updated>2018-08-09T10:48:04.776Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h3><blockquote><ul><li>this is my first blog, and I want to test my personal blog website using this.</li><li>I will uplod a picture here.<img src="./images/img-emoji.jpg" alt="pic for testing"></li></ul></blockquote><p><img src="./images/img-example.png" alt="source code"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="My-First-Blog"><a href="#My-First-Blog" class="headerlink" title="My First Blog"></a>My First Blog</h3><blockquote><ul><li>this is my first blog, and I want to test my personal blog website using this.</li><li>I will uplod a picture here.<img src="/images/img-emoji.jpg" alt="pic for testing"></li></ul></blockquote><p><img src="/images/img-example.png" alt="source code"></p>]]></content>
     
     <summary type="html">
     
